@@ -2,7 +2,7 @@
 
 user=$(whoami)
 home=/Users/$user
-input=/$home/Desktop/builds/bash
+input=$home/Desktop/builds/bash
 # we used curly braces because _bashBackup is not part of the initial user variable
 output=/tmp/${user}_bashBackup_$(date +%Y-%m-%d_%H:%M).tar.gz
 
