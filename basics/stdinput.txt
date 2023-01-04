@@ -1,0 +1,2 @@
+This is a standard input text created from the terminal using cat command in conjuction with the > notation and the file name
+This is just to show that I am actually progressing!!
